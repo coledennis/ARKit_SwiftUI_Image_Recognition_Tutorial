@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "TrackerImage.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "width" : 3.5999671794871793
+  }
+}
