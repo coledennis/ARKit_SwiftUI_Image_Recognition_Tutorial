@@ -1,7 +1,7 @@
 {
   "images" : [
     {
-      "filename" : "TrackerImage.jpeg",
+      "filename" : "11-0-Day-thumbnail.jpg",
       "idiom" : "universal"
     }
   ],
@@ -10,6 +10,7 @@
     "version" : 1
   },
   "properties" : {
-    "width" : 3.5999671794871793
+    "unit" : "inches",
+    "width" : 10
   }
 }
